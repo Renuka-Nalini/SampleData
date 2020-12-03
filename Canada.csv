@@ -1,0 +1,31 @@
+﻿OrderID,CustomerID,EmployeeID,OrderDate,RequiredDate,ShippedDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,Sales
+10332,MEREP,3,10/17/1996,11/28/1996,10/21/1996,2,52.84,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,5467
+10339,MEREP,2,10/28/1996,11/25/1996,11/4/1996,2,15.66,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,36786
+10376,MEREP,1,12/9/1996,1/6/1997,12/13/1996,2,20.39,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,3466
+10389,BOTTM,4,12/20/1996,1/17/1997,12/24/1996,2,47.42,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,98877
+10410,BOTTM,3,1/10/1997,2/7/1997,1/15/1997,3,2.40,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,25454
+10411,BOTTM,9,1/10/1997,2/7/1997,1/21/1997,3,23.65,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,34356
+10424,MEREP,7,1/23/1997,2/20/1997,1/27/1997,2,370.61,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,5667
+10431,BOTTM,4,1/30/1997,2/13/1997,2/7/1997,2,44.17,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,766523
+10439,MEREP,6,2/7/1997,3/7/1997,2/10/1997,3,4.07,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,12356
+10492,BOTTM,3,4/1/1997,4/29/1997,4/11/1997,1,62.89,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,7889
+10495,LAUGB,3,4/3/1997,5/1/1997,4/11/1997,3,4.65,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,3456
+10505,MEREP,3,4/14/1997,5/12/1997,4/21/1997,3,7.13,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,776876
+10565,MEREP,8,6/11/1997,7/9/1997,6/18/1997,2,7.15,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,34667
+10570,MEREP,3,6/17/1997,7/15/1997,6/19/1997,3,188.99,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,237467
+10590,MEREP,4,7/7/1997,8/4/1997,7/14/1997,3,44.77,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,34762
+10605,MEREP,1,7/21/1997,8/18/1997,7/29/1997,2,379.13,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,238478
+10618,MEREP,1,8/1/1997,9/12/1997,8/8/1997,1,154.68,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,56523
+10619,MEREP,3,8/4/1997,9/1/1997,8/7/1997,3,91.05,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,7899
+10620,LAUGB,2,8/5/1997,9/2/1997,8/14/1997,3,0.94,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,8998
+10724,MEREP,8,10/30/1997,12/11/1997,11/5/1997,2,57.75,Mère Paillarde,43 rue St. Laurent,Montréal,Québec,37467
+10742,BOTTM,3,11/14/1997,12/12/1997,11/18/1997,3,243.73,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,347
+10810,LAUGB,2,1/1/1998,1/29/1998,1/7/1998,3,4.33,Laughing Bacchus Wine Cellars,2319 Elm St.,Vancouver,BC,2356
+10918,BOTTM,3,3/2/1998,3/30/1998,3/11/1998,3,48.83,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,898
+10944,BOTTM,6,3/12/1998,3/26/1998,3/13/1998,3,52.92,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,25665
+10949,BOTTM,2,3/13/1998,4/10/1998,3/17/1998,3,74.44,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,3488
+10975,BOTTM,1,3/25/1998,4/22/1998,3/27/1998,3,32.27,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,876786
+10982,BOTTM,2,3/27/1998,4/24/1998,4/8/1998,1,14.01,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,5433
+11027,BOTTM,1,4/16/1998,5/14/1998,4/20/1998,1,52.52,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,3788
+11045,BOTTM,6,4/23/1998,5/21/1998,,2,70.58,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,7867
+11048,BOTTM,7,4/24/1998,5/22/1998,4/30/1998,3,24.12,Bottom-Dollar Markets,23 Tsawassen Blvd.,Tsawassen,BC,23787
