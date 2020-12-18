@@ -1,88 +1,154 @@
-﻿OrderID,CustomerID,EmployeeID,OrderDate,ShipVia,Freight,ShipName,ShipAddress,ShipCity,ShipRegion,Sales
-10248,WILMK,5,7/4/2017,3,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,36476
-10251,VICTE,3,7/8/2017,1,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,4667
-10265,BLONP,2,7/25/2017,1,55.28,Blondel père et fils,"24, place Kléber",Strasbourg,,8783
-10274,VINET,6,8/6/2017,1,6.01,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,9847
-10295,VINET,2,9/2/2017,2,1.15,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,34787
-10297,BLONP,5,9/4/2017,2,5.74,Blondel père et fils,"24, place Kléber",Strasbourg,,347897
-10311,DUMON,1,9/20/2017,3,24.69,Du monde entier,"67, rue des Cinquante Otages",Nantes,,34767
-10331,BONAP,9,10/16/2017,1,10.19,Bon app',"12, rue des Bouchers",Marseille,,4768
-10334,VICTE,8,10/21/2017,2,8.56,Victuailles en stock,"2, rue du Commerce",Lyon,,3878
-10340,BONAP,1,10/29/2017,3,166.31,Bon app',"12, rue des Bouchers",Marseille,,346766
-10350,LAMAI,6,11/11/2017,2,64.19,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,24365
-10358,LAMAI,5,11/20/2017,1,19.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,54541
-10360,BLONP,4,11/22/2017,3,131.70,Blondel père et fils,"24, place Kléber",Strasbourg,,1345
-10362,BONAP,3,11/25/2017,1,96.04,Bon app',"12, rue des Bouchers",Marseille,,5465
-10371,LAMAI,1,12/3/2017,1,0.45,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,2343
-10408,FOLIG,8,1/8/2018,1,11.26,Folies gourmandes,"184, chaussée de Tournai",Lille,,4557
-10413,LAMAI,3,1/14/2018,2,95.66,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,24365
-10425,LAMAI,6,1/24/2018,2,7.93,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,46768
-10436,BLONP,3,2/5/2018,2,156.66,Blondel père et fils,"24, place Kléber",Strasbourg,,2345
-10449,BLONP,3,2/18/2018,2,53.30,Blondel père et fils,"24, place Kléber",Strasbourg,,47878
-10450,VICTE,8,2/19/2018,2,7.23,Victuailles en stock,"2, rue du Commerce",Lyon,,3487
-10454,LAMAI,4,2/21/2018,3,2.74,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,347878
-10459,VICTE,4,2/27/2018,2,25.09,Victuailles en stock,"2, rue du Commerce",Lyon,,357657
-10470,BONAP,4,3/11/2018,2,64.56,Bon app',"12, rue des Bouchers",Marseille,,34456
-10478,VICTE,2,3/18/2018,3,4.81,Victuailles en stock,"2, rue du Commerce",Lyon,,24348
-10480,FOLIG,6,3/20/2018,2,1.35,Folies gourmandes,"184, chaussée de Tournai",Lille,,4456
-10493,LAMAI,4,4/2/2018,3,10.64,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,348787
-10500,LAMAI,6,4/9/2018,1,42.68,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,342387
-10511,BONAP,4,4/18/2018,3,350.64,Bon app',"12, rue des Bouchers",Marseille,,34776
-10525,BONAP,1,5/2/2018,2,11.06,Bon app',"12, rue des Bouchers",Marseille,,34776
-10546,VICTE,1,5/23/2018,3,194.72,Victuailles en stock,"2, rue du Commerce",Lyon,,49874
-10559,BLONP,6,6/5/2018,1,8.05,Blondel père et fils,"24, place Kléber",Strasbourg,,4663
-10566,BLONP,9,6/12/2018,1,88.40,Blondel père et fils,"24, place Kléber",Strasbourg,,34767
-10584,BLONP,4,6/30/2018,1,59.14,Blondel père et fils,"24, place Kléber",Strasbourg,,8898
-10609,DUMON,7,7/24/2018,2,1.85,Du monde entier,"67, rue des Cinquante Otages",Nantes,,24234
-10610,LAMAI,8,7/25/2018,1,26.78,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,32566
-10628,BLONP,4,8/12/2018,3,30.36,Blondel père et fils,"24, place Kléber",Strasbourg,,4324
-10631,LAMAI,8,8/14/2018,1,0.87,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,2323
-10634,FOLIG,4,8/15/2018,3,487.38,Folies gourmandes,"184, chaussée de Tournai",Lille,,7678367
-10663,BONAP,2,9/10/2018,2,113.15,Bon app',"12, rue des Bouchers",Marseille,,2387
-10671,FRANR,1,9/17/2018,1,30.34,France restauration,"54, rue Royale",Nantes,,23678
-10679,BLONP,8,9/23/2018,3,27.94,Blondel père et fils,"24, place Kléber",Strasbourg,,9898
-10683,DUMON,2,9/26/2018,1,4.40,Du monde entier,"67, rue des Cinquante Otages",Nantes,,21377
-10715,BONAP,3,10/23/2018,1,63.20,Bon app',"12, rue des Bouchers",Marseille,,3783
-10730,BONAP,5,11/5/2018,1,20.12,Bon app',"12, rue des Bouchers",Marseille,,2314
-10732,BONAP,3,11/6/2018,1,16.97,Bon app',"12, rue des Bouchers",Marseille,,47876
-10737,VINET,2,11/11/2018,2,7.79,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,12378
-10738,SPECD,2,11/12/2018,1,2.91,Spécialités du monde,"25, rue Lauriston",Paris,,2376
-10739,VINET,3,11/12/2018,3,11.08,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,12378
-10755,BONAP,4,11/26/2018,2,16.71,Bon app',"12, rue des Bouchers",Marseille,,7872
-10763,FOLIG,3,12/3/2018,3,37.35,Folies gourmandes,"184, chaussée de Tournai",Lille,,31378
-10787,LAMAI,2,12/19/2018,1,249.93,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,3889
-10789,FOLIG,1,12/22/2018,2,100.60,Folies gourmandes,"184, chaussée de Tournai",Lille,,8638764
-10806,VICTE,3,12/31/2018,2,22.11,Victuailles en stock,"2, rue du Commerce",Lyon,,3487
-10814,VICTE,3,1/5/2019,3,130.94,Victuailles en stock,"2, rue du Commerce",Lyon,,3456
-10826,BLONP,6,1/12/2019,1,7.09,Blondel père et fils,"24, place Kléber",Strasbourg,,438278
-10827,BONAP,1,1/12/2019,2,63.54,Bon app',"12, rue des Bouchers",Marseille,,432
-10832,LAMAI,2,1/14/2019,2,43.26,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,3487
-10843,VICTE,4,1/21/2019,2,9.26,Victuailles en stock,"2, rue du Commerce",Lyon,,4767
-10850,VICTE,1,1/23/2019,1,49.19,Victuailles en stock,"2, rue du Commerce",Lyon,,87833
-10858,LACOR,2,1/29/2019,1,52.51,La corne d'abondance,"67, avenue de l'Europe",Versailles,,6667
-10860,FRANR,3,1/29/2019,3,19.26,France restauration,"54, rue Royale",Nantes,,3467
-10871,BONAP,9,2/5/2019,2,112.27,Bon app',"12, rue des Bouchers",Marseille,,7777634
-10876,BONAP,7,2/9/2019,3,60.42,Bon app',"12, rue des Bouchers",Marseille,,4667
-10890,DUMON,7,2/16/2019,1,32.76,Du monde entier,"67, rue des Cinquante Otages",Nantes,,565
-10907,SPECD,6,2/25/2019,3,9.19,Spécialités du monde,"25, rue Lauriston",Paris,,3244
-10923,LAMAI,7,3/3/2019,3,68.26,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,7876
-10927,LACOR,4,3/5/2019,1,19.79,La corne d'abondance,"67, avenue de l'Europe",Versailles,,47678
-10932,BONAP,8,3/6/2019,1,134.64,Bon app',"12, rue des Bouchers",Marseille,,7762
-10940,BONAP,8,3/11/2019,3,19.77,Bon app',"12, rue des Bouchers",Marseille,,4512
-10964,SPECD,3,3/20/2019,2,87.38,Spécialités du monde,"25, rue Lauriston",Paris,,87863
-10971,FRANR,2,3/24/2019,2,121.82,France restauration,"54, rue Royale",Nantes,,87863
-10972,LACOR,4,3/24/2019,2,0.02,La corne d'abondance,"67, avenue de l'Europe",Versailles,,87863
-10973,LACOR,6,3/24/2019,2,15.17,La corne d'abondance,"67, avenue de l'Europe",Versailles,,87863
-11043,SPECD,5,4/22/2019,2,8.80,Spécialités du monde,"25, rue Lauriston",Paris,,87863
-11051,LAMAI,7,4/27/2019,3,2.79,La maison d'Asie,1 rue Alsace-Lorraine,Toulouse,,87863
-11076,BONAP,4,5/6/2019,2,38.28,Bon app',"12, rue des Bouchers",Marseille,,87863
-11077,WILMK,5,7/4/2020,3,32.38,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,36476
-11078,VICTE,3,7/8/2020,1,41.34,Victuailles en stock,"2, rue du Commerce",Lyon,,4667
-11079,BLONP,2,7/25/2020,1,55.28,Blondel père et fils,"24, place Kléber",Strasbourg,,8783
-10280,VINET,6,8/6/2020,1,6.01,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,9847
-10281,VINET,2,9/2/2020,2,1.15,Vins et alcools Chevalier,59 rue de l'Abbaye,Reims,,34787
-10282,BLONP,5,9/4/2020,2,5.74,Blondel père et fils,"24, place Kléber",Strasbourg,,347897
-10283,DUMON,1,9/20/2020,3,24.69,Du monde entier,"67, rue des Cinquante Otages",Nantes,,34767
-10284,BONAP,9,10/16/2020,1,10.19,Bon app',"12, rue des Bouchers",Marseille,,4768
-10285,VICTE,8,10/21/2020,2,8.56,Victuailles en stock,"2, rue du Commerce",Lyon,,3878
-10286,BONAP,1,10/29/2020,3,166.31,Bon app',"12, rue des Bouchers",Marseille,,346766
+﻿Region,Market,Raw Material,Images,Quoted Value,Purchased Value,Quoted Date,Purchased Date
+France,Fareway,Wheat,,670,660,12/1/2020,12/1/2020
+France,Fareway,Wheat,,580,640,11/1/2020,10/1/2020
+France,Fareway,Wheat,,700,620,8/1/2020,8/1/2020
+France,Fareway,Wheat,,660,630,6/1/2020,6/1/2020
+France,Fareway,Wheat,,660,610,4/1/2020,4/1/2020
+France,Fareway,Wheat,,560,615,2/1/2020,2/1/2020
+France,Fareway,Wheat,,800,580,12/1/2019,12/1/2019
+France,Fareway,Wheat,,660,596,10/1/2019,10/1/2019
+France,Fareway,Wheat,,550,610,8/1/2019,8/1/2019
+France,Fareway,Wheat,,643,650,6/1/2019,6/1/2019
+France,Fareway,Wheat,,780,680,4/1/2019,4/1/2019
+France,Fareway,Wheat,,660,650,2/1/2019,2/1/2019
+France,Fareway,Wheat,,560,620,12/1/2018,12/1/2018
+France,Fareway,Wheat,,660,610,10/1/2018,10/1/2018
+France,Fareway,Wheat,,660,540,8/1/2018,8/1/2018
+France,Fareway,Wheat,,450,530,6/1/2018,6/1/2018
+France,Fareway,Wheat,,660,450,4/1/2018,4/1/2018
+France,Fareway,Egg,,300,300,12/1/2020,12/1/2020
+France,Fareway,Egg,,400,340,11/1/2020,10/1/2020
+France,Fareway,Egg,,350,280,8/1/2020,8/1/2020
+France,Fareway,Egg,,400,278,6/1/2020,6/1/2020
+France,Fareway,Egg,,400,310,4/1/2020,4/1/2020
+France,Fareway,Egg,,250,290,2/1/2020,2/1/2020
+France,Fareway,Egg,,400,290,12/1/2019,12/1/2019
+France,Fareway,Egg,,267,370,10/1/2019,10/1/2019
+France,Fareway,Egg,,400,250,8/1/2019,8/1/2019
+France,Fareway,Egg,,256,201,6/1/2019,6/1/2019
+France,Fareway,Egg,,400,180,4/1/2019,4/1/2019
+France,Fareway,Egg,,400,200,2/1/2019,2/1/2019
+France,Fareway,Egg,,400,350,12/1/2018,12/1/2018
+France,Fareway,Egg,,378,300,10/1/2018,10/1/2018
+France,Fareway,Egg,,400,320,8/1/2018,8/1/2018
+France,Fareway,Egg,,400,310,6/1/2018,6/1/2018
+France,Fareway,Egg,,143,280,4/1/2018,4/1/2018
+France,Fareway,Milk,,1200,1200,12/1/2020,12/1/2020
+France,Fareway,Milk,,1300,1002,10/1/2020,10/1/2020
+France,Fareway,Milk,,700,1347,8/1/2020,8/1/2020
+France,Fareway,Milk,,850,800,6/1/2020,6/1/2020
+France,Fareway,Milk,,1300,890,4/1/2020,4/1/2020
+France,Fareway,Milk,,560,679,2/1/2020,2/1/2020
+France,Fareway,Milk,,503,989,12/1/2019,12/1/2019
+France,Fareway,Milk,,1300,543,10/1/2019,10/1/2019
+France,Fareway,Milk,,790,890,8/1/2019,8/1/2019
+France,Fareway,Milk,,1300,998,6/1/2019,6/1/2019
+France,Fareway,Milk,,365,980,4/1/2019,4/1/2019
+France,Fareway,Milk,,1300,982,2/1/2019,2/1/2019
+France,Fareway,Milk,,1300,541,12/1/2018,12/1/2018
+France,Fareway,Milk,,765,989,10/1/2018,10/1/2018
+France,Fareway,Milk,,1300,642,8/1/2018,8/1/2018
+France,Fareway,Milk,,987,989,6/1/2018,6/1/2018
+France,Fareway,Milk,,1300,776,4/1/2018,4/1/2018
+France,Smart & Final,Wheat,,650,650,12/1/2020,12/1/2020
+France,Smart & Final,Wheat,,580,520,11/1/2020,10/1/2020
+France,Smart & Final,Wheat,,600,620,8/1/2020,8/1/2020
+France,Smart & Final,Wheat,,660,670,6/1/2020,6/1/2020
+France,Smart & Final,Wheat,,700,610,4/1/2020,4/1/2020
+France,Smart & Final,Wheat,,560,615,2/1/2020,2/1/2020
+France,Smart & Final,Wheat,,800,580,12/1/2019,12/1/2019
+France,Smart & Final,Wheat,,450,450,10/1/2019,10/1/2019
+France,Smart & Final,Wheat,,550,610,8/1/2019,8/1/2019
+France,Smart & Final,Wheat,,800,700,6/1/2019,6/1/2019
+France,Smart & Final,Wheat,,780,680,4/1/2019,4/1/2019
+France,Smart & Final,Wheat,,660,590,2/1/2019,2/1/2019
+France,Smart & Final,Wheat,,560,620,12/1/2018,12/1/2018
+France,Smart & Final,Wheat,,672,610,10/1/2018,10/1/2018
+France,Smart & Final,Wheat,,660,700,8/1/2018,8/1/2018
+France,Smart & Final,Wheat,,450,530,6/1/2018,6/1/2018
+France,Smart & Final,Wheat,,700,450,4/1/2018,4/1/2018
+France,Smart & Final,Egg,,300,250,12/1/2020,12/1/2020
+France,Smart & Final,Egg,,400,340,10/1/2020,10/1/2020
+France,Smart & Final,Egg,,350,280,8/1/2020,8/1/2020
+France,Smart & Final,Egg,,400,300,6/1/2020,6/1/2020
+France,Smart & Final,Egg,,690,310,4/1/2020,4/1/2020
+France,Smart & Final,Egg,,250,290,2/1/2020,2/1/2020
+France,Smart & Final,Egg,,340,350,12/1/2019,12/1/2019
+France,Smart & Final,Egg,,267,370,10/1/2019,10/1/2019
+France,Smart & Final,Egg,,400,250,8/1/2019,8/1/2019
+France,Smart & Final,Egg,,256,201,6/1/2019,6/1/2019
+France,Smart & Final,Egg,,345,400,4/1/2019,4/1/2019
+France,Smart & Final,Egg,,400,200,2/1/2019,2/1/2019
+France,Smart & Final,Egg,,563,200,12/1/2018,12/1/2018
+France,Smart & Final,Egg,,378,300,10/1/2018,10/1/2018
+France,Smart & Final,Egg,,432,320,8/1/2018,8/1/2018
+France,Smart & Final,Egg,,400,250,6/1/2018,6/1/2018
+France,Smart & Final,Egg,,143,280,4/1/2018,4/1/2018
+France,Smart & Final,Milk,,1150,1020,12/1/2020,12/1/2020
+France,Smart & Final,Milk,,1300,820,10/1/2020,10/1/2020
+France,Smart & Final,Milk,,660,1200,8/1/2020,8/1/2020
+France,Smart & Final,Milk,,560,800,6/1/2020,6/1/2020
+France,Smart & Final,Milk,,800,890,4/1/2020,4/1/2020
+France,Smart & Final,Milk,,660,789,2/1/2020,2/1/2020
+France,Smart & Final,Milk,,550,989,12/1/2019,12/1/2019
+France,Smart & Final,Milk,,643,543,10/1/2019,10/1/2019
+France,Smart & Final,Milk,,780,890,8/1/2019,8/1/2019
+France,Smart & Final,Milk,,660,998,6/1/2019,6/1/2019
+France,Smart & Final,Milk,,560,450,4/1/2019,4/1/2019
+France,Smart & Final,Milk,,660,982,2/1/2019,2/1/2019
+France,Smart & Final,Milk,,660,541,12/1/2018,12/1/2018
+France,Smart & Final,Milk,,450,989,10/1/2018,10/1/2018
+France,Smart & Final,Milk,,660,642,8/1/2018,8/1/2018
+France,Smart & Final,Milk,,300,540,6/1/2018,6/1/2018
+France,Smart & Final,Milk,,1200,776,4/1/2018,4/1/2018
+France,WinCo Foods,Wheat,,650,650,12/1/2020,12/1/2020
+France,WinCo Foods,Wheat,,700,520,11/1/2020,10/1/2020
+France,WinCo Foods,Wheat,,600,620,8/1/2020,8/1/2020
+France,WinCo Foods,Wheat,,660,670,6/1/2020,6/1/2020
+France,WinCo Foods,Wheat,,700,610,4/1/2020,4/1/2020
+France,WinCo Foods,Wheat,,560,615,2/1/2020,2/1/2020
+France,WinCo Foods,Wheat,,800,580,12/1/2019,12/1/2019
+France,WinCo Foods,Wheat,,450,450,10/1/2019,10/1/2019
+France,WinCo Foods,Wheat,,550,610,8/1/2019,8/1/2019
+France,WinCo Foods,Wheat,,800,700,6/1/2019,6/1/2019
+France,WinCo Foods,Wheat,,780,680,4/1/2019,4/1/2019
+France,WinCo Foods,Wheat,,660,590,2/1/2019,2/1/2019
+France,WinCo Foods,Wheat,,560,620,12/1/2018,12/1/2018
+France,WinCo Foods,Wheat,,672,610,10/1/2018,10/1/2018
+France,WinCo Foods,Wheat,,660,700,8/1/2018,8/1/2018
+France,WinCo Foods,Wheat,,450,530,6/1/2018,6/1/2018
+France,WinCo Foods,Wheat,,700,450,4/1/2018,4/1/2018
+France,WinCo Foods,Egg,,300,250,12/1/2020,12/1/2020
+France,WinCo Foods,Egg,,400,340,11/1/2020,10/1/2020
+France,WinCo Foods,Egg,,350,280,8/1/2020,8/1/2020
+France,WinCo Foods,Egg,,400,300,6/1/2020,6/1/2020
+France,WinCo Foods,Egg,,690,310,4/1/2020,4/1/2020
+France,WinCo Foods,Egg,,250,290,2/1/2020,2/1/2020
+France,WinCo Foods,Egg,,250,350,12/1/2019,12/1/2019
+France,WinCo Foods,Egg,,400,370,10/1/2019,10/1/2019
+France,WinCo Foods,Egg,,267,250,8/1/2019,8/1/2019
+France,WinCo Foods,Egg,,400,201,6/1/2019,6/1/2019
+France,WinCo Foods,Egg,,256,400,4/1/2019,4/1/2019
+France,WinCo Foods,Egg,,400,200,2/1/2019,2/1/2019
+France,WinCo Foods,Egg,,400,200,12/1/2018,12/1/2018
+France,WinCo Foods,Egg,,400,300,10/1/2018,10/1/2018
+France,WinCo Foods,Egg,,378,320,8/1/2018,8/1/2018
+France,WinCo Foods,Egg,,400,250,6/1/2018,6/1/2018
+France,WinCo Foods,Egg,,143,280,4/1/2018,4/1/2018
+France,WinCo Foods,Milk,,1150,1020,12/1/2020,12/1/2020
+France,WinCo Foods,Milk,,1300,820,11/1/2020,10/1/2020
+France,WinCo Foods,Milk,,800,1200,8/1/2020,8/1/2020
+France,WinCo Foods,Milk,,850,800,6/1/2020,6/1/2020
+France,WinCo Foods,Milk,,1300,890,4/1/2020,4/1/2020
+France,WinCo Foods,Milk,,700,789,2/1/2020,2/1/2020
+France,WinCo Foods,Milk,,765,989,12/1/2019,12/1/2019
+France,WinCo Foods,Milk,,900,543,10/1/2019,10/1/2019
+France,WinCo Foods,Milk,,700,890,8/1/2019,8/1/2019
+France,WinCo Foods,Milk,,850,998,6/1/2019,6/1/2019
+France,WinCo Foods,Milk,,1300,450,4/1/2019,4/1/2019
+France,WinCo Foods,Milk,,560,982,2/1/2019,2/1/2019
+France,WinCo Foods,Milk,,503,541,12/1/2018,12/1/2018
+France,WinCo Foods,Milk,,1300,989,10/1/2018,10/1/2018
+France,WinCo Foods,Milk,,790,642,8/1/2018,8/1/2018
+France,WinCo Foods,Milk,,1300,540,6/1/2018,6/1/2018
+France,WinCo Foods,Milk,,365,776,4/1/2018,4/1/2018
