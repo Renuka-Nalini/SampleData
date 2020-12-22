@@ -1,4 +1,28 @@
-﻿Country
-United States
-France
-Brazil
+﻿Country,Market,RawMaterial
+United States,Fareway,Wheat
+France,Amboise market,Wheat
+Brazil,Municipal Market,Wheat
+United States,Smart & Final,Wheat
+United States,Winco Foods,Wheat
+France,Belfort Market,Wheat
+France,Cahors Market,Wheat
+Brazil,Central Market,Wheat
+Brazil,Modelo Market,Wheat
+Brazil,Municipal Market,Milk
+Brazil,Municipal Market,Egg
+Brazil,Central Market,Milk
+Brazil,Central Market,Egg
+Brazil,Modelo Market,Milk
+Brazil,Modelo Market,Egg
+France,Amboise market,Milk
+France,Amboise market,Egg
+France,Belfort Market,Milk
+France,Belfort Market,Egg
+France,Cahors Market,Milk
+France,Cahors Market,Egg
+United States,Fareway,Egg
+United States,Fareway,Milk
+United States,Smart & Final,Egg
+United States,Smart & Final,Milk
+United States,Winco Foods,Egg
+United States,Winco Foods,Milk
